@@ -44,14 +44,14 @@
 
 <div align="center">
  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=howsen82&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img width="48%" alt="Steven's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=howsen82&theme=react&border=61dafb&hide_border=true" />
 <div>
   
 <!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=howsen82&theme=radical&hide_border=false)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=howsen82)](https://git.io/streak-stats)
 -->
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
 <!-- <div style = "display: flex; flex-direction: row;">
@@ -81,9 +81,16 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Mayank snake gif](https://github.com/howsen82/howsen82/blob/master/github-contribution-grid-snake.svg)
+![Mayank snake gif](https://github.com/howsen82/howsen82/blob/master/github-contribution-grid-snake.svg)>
 
 <div align = "left">
+
+📫 How to reach me:
+* Linkedin:  [https://www.linkedin.com/in/steven-leong-48a994103/](https://www.linkedin.com/in/steven-leong-48a994103/)
+* Web:  [https://howsen.com](https://howsen.com)
+
+<br>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps Architect ...
