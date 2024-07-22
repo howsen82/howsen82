@@ -5,7 +5,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha! Nice to see you.</h1>
 <h1 align="center">I'm Steven 😀</h1>
 
-🏆 Generative AI Engineer | ❖ Enterprise Architect/Solution Architect | 🔮 Data Scientist | ❖ Software Engineering | ❖ Cloud Migration/Integration | ❖ Project Management | ❖ Business Analysis | ❖ Product Development | ❖ 20+ Years Exp ❖ Visionary Enterprise Architect | ❖ Senior System Engineer | ❖ SysOps, NetOps, DataOps, MLOps, DevOps, CyberOps, DevSecOps, CloudOps
+🏆 Generative AI Engineer | ❖ Enterprise Architect/Solution Architect | 🔮 Data Scientist | ❖ Software Engineering | ❖ Cloud Migration/Integration | ❖ Project Management | ❖ Business Analysis | ❖ Product Development | ❖ 20+ Years Exp ❖ Visionary Enterprise Architect | ❖ Senior System Engineer | ❖ SysOps ❖ NetOps ❖ DataOps ❖ MLOps ❖ DevOps ❖ CyberOps ❖ DevSecOps ❖ CloudOps
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
@@ -25,6 +25,37 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd90) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%24ED6B00.svg?style=for-the-badge&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/plsql-%23316192.svg?style=for-the-badge&logo=plsql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23008C8C.svg?style=for-the-badge&logo=OpenCV&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%23003153.svg?style=for-the-badge&logo=C#&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F9DC24.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![NuxtJS](https://img.shields.io/badge/NuxtJS-%23002FA7.svg?style=for-the-badge&logo=NuxtJS&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23E85827.svg?style=for-the-badge&logo=Rust&logoColor=white) ![Json](https://img.shields.io/badge/Json-%2381D8D0.svg?style=for-the-badge&logo=Json&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23800020.svg?style=for-the-badge&logo=SQLServer&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23008C8C.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![.Net](https://img.shields.io/badge/dotNet-%23B05923.svg?style=for-the-badge&logo=dotNet&logoColor=white) ![WinForm](https://img.shields.io/badge/WinForm-%238F4B28.svg?style=for-the-badge&logo=WinForm&logoColor=white) ![API](https://img.shields.io/badge/API-%23003472.svg?style=for-the-badge&logo=API&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23789262.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+
+<a href="#gh-light-mode-only">
+  <img alt="Ruby" src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=CC342D#gh-light-mode-only">
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="React" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Git" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-FFFFFF?style=for-the-badge&logo=prettier#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-light-mode-only"/>
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black#gh-light-mode-only"/>
+</a>
 
 <br>
 
