@@ -81,7 +81,7 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Mayank snake gif](https://github.com/howsen82/howsen82/blob/main/github-contribution-grid-snake.svg)
+![Mayank snake gif](https://github.com/howsen82/howsen82/blob/master/github-contribution-grid-snake.svg)
 
 <div align = "left">
 Here are some ideas to get you started:
