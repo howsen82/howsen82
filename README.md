@@ -75,6 +75,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=howsen82&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://myreadme.vercel.app/api/embed/howsen82?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<br>
+
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=howsen82&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
