@@ -70,7 +70,7 @@
 <br>
 <!-- <div style = "margin: 0 10px">
 
- ![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+ ![](https://github-readme-stats.vercel.app/api?username=howsen82&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div> -->
 
 <div align="center">
