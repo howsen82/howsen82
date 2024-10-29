@@ -8,6 +8,7 @@ on:
 
 jobs:
   achievements:
+    name: Achievements
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -26,6 +27,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
   github-metrics:
+    name: Github header
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -45,6 +47,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   lines:
+    name: Lines of Code
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -58,6 +61,7 @@ jobs:
           plugin_lines: yes
 
   acti_comm:
+    name: Community stats
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -77,6 +81,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   iso_calender:
+    name: Isometric commit calendar
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -98,6 +103,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
   habits:
+    name: Coding habits
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -118,6 +124,7 @@ jobs:
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
   issue_pr_lang:
+    name: Follow-up issues
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -138,8 +145,8 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
 
-
   repositories:
+    name: Repositories metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
